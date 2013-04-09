@@ -2,9 +2,9 @@ Podbe-API
 =========
 
 Podbe JSON API for Podcatcher
+<div style="float:right;"><img src="http://podbe.wikibyte.org/wp-content/uploads/2013/02/podbe1.png"></div>
 
-
-<h2>XML zum Podcast (meta_key: podbe-types)</h2>
+<h2>XML Podcastpage (meta_key: podbe-types)</h2>
 There are two types of variables, for example:
 a:31:
 s:7:
@@ -135,11 +135,9 @@ s = string and 7 is the length of the string
   &lt;/item>
 &lt;/channel>
 </pre>
-<h2>Informationen zur Podcastseien (meta_value)</h2>
+<h2>Formular informations: Podbe Json-API (meta_values)</h2>
 
-<strong>ID = Infos </strong>
-
-<span style="color: #1585c9;">wp_post()</span>  = title =&gt; Podcastname
+<span style="color: #1585c9;">wp_post('title')</span> = Podcastname
 
 <span style="color: #1585c9;">heading</span> = Subtitle des Podcast
 
