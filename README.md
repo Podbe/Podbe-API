@@ -3,14 +3,14 @@
  
 <h4>Podbe JSON API for Podcatcher:</h4>
 
-Finde more information to PJA in the <a href="https://github.com/Podbe/Podbe-API/blob/master/test-podbe-json.php">Test PHP</a>
+Find more information to PJA in the <a href="https://github.com/Podbe/Podbe-API/blob/master/test-podbe-json.php">Testing PHP</a>
 
 <h2>XML Podcastpage (meta_key: podbe-types)</h2>
-There are two types of variables, for example:
-a:31:
-s:7:
-a = array and 31 is the dimension of the array
-s = string and 7 is the length of the string
+There are two types of variables, for example:<br>
+<b>a:31:</b><br>
+<b>s:7:</b><br>
+<i>a</i> = array and 31 is the dimension of the array<br>
+<i>s</i> = string and 7 is the length of the string
 <pre>
 &lt;rss version="2.0"
   xmlns:excerpt="http://wordpress.org/export/"
