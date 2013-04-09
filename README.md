@@ -188,7 +188,7 @@ There are two types of variables, for example:<br>
 
 ..more networklinks are working!..
 
-<h2>The Podcaster aser data</h2>
+<h2>The Podcaster user data</h2>
 
 <h3>Podcaster 1</h3>
 
