@@ -136,286 +136,312 @@ There are two types of variables, for example:<br>
   &lt;/item>
 &lt;/channel>
 </pre>
-<h2>Formular informations: Podbe Json-API (meta_values)</h2>
+<h2>Formular informations for "Podbe Json-API" (meta_values)</h2>
 
-<span style="color: #1585c9;">wp_post('title')</span> = Podcastname
+<b>wp_post('title')</b> = Podcastname
 
-<span style="color: #1585c9;">heading</span> = Subtitle des Podcast
+<b>heading</b> = Subtitle des Podcast
 
-<span style="color: #1585c9;">image</span> = Bild Url des Covers
+<b>image</b> = Bild Url des Covers
 
-<span style="color: #1585c9;">moderat</span> = Name des Moderators
+<b>moderat</b> = Name des Moderators
 
-<span style="color: #1585c9;">additional-info</span> = Description des Podcasts
+<b>additional-info</b> = Description des Podcasts
 
-<span style="color: #1585c9;">podrss</span> (old ID) = Website URL
+<b>podrss</b>  = Website URL (old ID Name for rss url)
 
-<span style="color: #1585c9;">liz</span> = Lizenz Name
+<b>liz</b>    = Lizenz Name 
 
-<span style="color: #1585c9;">lizurl</span> = Lizenz URL / Podcast Site URL
+<b>lizurl</b> = Lizenz URL / Podcasting Blog & Site URL
 
-<h6>Zusatzdaten Podcast</h6>
+<h4>Additional data for a Podcasting page</h4>
 
-<span style="color: #1585c9;">feedread</span> = Feed URL
+<b>feedread</b> = Feed URL
 
-<span style="color: #1585c9;">pmdread</span> = MP3 URL
+..more feedlinks are working!.. (Vobis, Torrents...)
 
-<span style="color: #1585c9;">ytcvideo</span> = YouTube ID
+<b>pmdread</b> = MP3 URL
 
-<h6>Podcast Sozial Links</h6>
+<b>ytcvideo</b> = YouTube ID (Style one Episode in Podlove WebPlayer!)
 
-<span style="color: #1585c9;">face</span> = Facebook URL
+<h4>Podcasting Social Network (links)</h4>
 
-<span style="color: #1585c9;">twitter</span> = Twitter URL
+<b>face</b> = Facebook URL
 
-<span style="color: #1585c9;">appnet</span> = APP.Net URL
+<b>twitter</b> = Twitter URL
 
-<span style="color: #1585c9;">gplus</span> = G+ URL
+<b>appnet</b> = APP.Net URL
 
-<span style="color: #1585c9;">ytube</span> = YouTube URL
+<b>gplus</b> = G+ URL
 
-<h6>Podcast Netzwerke</h6>
+<b>ytube</b> = YouTube URL
 
-<span style="color: #1585c9;">poduni</span> = PodUnion URL
+..more links are working!..
 
-<span style="color: #1585c9;">podcde</span> = Podcast.de URL
+<h4>Podcasting Networks (as link)</h4>
 
-<span style="color: #1585c9;">itunes</span> =  iTunes URL
+<b>itunes</b> = iTunes URL
 
-<h2>Die Podcaster Daten</h2>
+<b>poduni</b> = PodUnion URL
+
+<b>podcde</b> = Podcast.de URL
+
+..more networklinks are working!..
+
+<h2>The Podcaster aser data</h2>
 
 <h3>Podcaster 1</h3>
 
-<span style="color: #1585c9;">user-eins</span> = Name des Podcasters
+<b>user-eins</b> = Name des Podcasters
 
-<span style="color: #1585c9;">user-eins</span>-= avatar Avatar URL
+<b>user-eins</b>-= avatar Avatar URL
 
-<span style="color: #1585c9;">user-eins-mail</span> = username@podcastname.tld
+<b>user-eins-mail</b> = username@podcastname.tld
 
-<span style="color: #1585c9;">user-eins-info</span> = Über den Podcaster (description)
+<b>user-eins-info</b> = Über den Podcaster (description)
 
-<span style="color: #1585c9;">user-eins-facebook</span> = (URL)
+<b>user-eins-facebook</b> = (URL)
 
-<span style="color: #1585c9;">user-eins-twitter</span> = (URL)
+<b>user-eins-twitter</b> = (URL)
 
-<span style="color: #1585c9;">user-eins-alpha</span> = (URL)
+<b>user-eins-alpha</b> = (URL)
 
-<span style="color: #1585c9;">user-eins-xing</span> =  (URL)
+<b>user-eins-xing</b> =  (URL)
 
-<span style="color: #1585c9;">user-eins-yt</span> =  (URL)
+<b>user-eins-yt</b> =  (URL)
 
-<span style="color: #1585c9;">user-eins-podunion</span> =  (URL)
+<b>user-eins-podunion</b> =  (URL)
+
+..more sociallinks are working!..
 
 <h3>Podcaster 2</h3>
 
-<span style="color: #1585c9;">user-zwei</span> = Name des Podcasters
+<b>user-zwei</b> = Name des Podcasters
 
-<span style="color: #1585c9;">user-zwei-avatar</span> = Avatar URL
+<b>user-zwei-avatar</b> = Avatar URL
 
-<span style="color: #1585c9;">user-zwei-mail</span> = username@podcastname.tld
+<b>user-zwei-mail</b> = username@podcastname.tld
 
-<span style="color: #1585c9;">user-zwei-info</span> = Über den Podcaster (description)
+<b>user-zwei-info</b> = Über den Podcaster (description)
 
-<span style="color: #1585c9;">user-zwei-facebook </span>=  (URL)
+<b>user-zwei-facebook </b>=  (URL)
 
-<span style="color: #1585c9;">user-zwei-twitter</span> = (URL)
+<b>user-zwei-twitter</b> = (URL)
 
-<span style="color: #1585c9;">user-zwei-alpha</span> = (URL)
+<b>user-zwei-alpha</b> = (URL)
 
-<span style="color: #1585c9;">user-zwei-xing</span> = (URL)
+<b>user-zwei-xing</b> = (URL)
 
-<span style="color: #1585c9;">user-zwei-yt</span> = (URL)
+<b>user-zwei-yt</b> = (URL)
 
-<span style="color: #1585c9;">user-zwei-podunion</span> = (URL)
+<b>user-zwei-podunion</b> = (URL)
+
+..more sociallinks are working!..
 
 <h3>Podcaster 3</h3>
 
-<span style="color: #1585c9;">user-drei</span> = Name des Podcasters
+<b>user-drei</b> = Name des Podcasters
 
-<span style="color: #1585c9;">user-drei-avatar</span> = Avatar URL
+<b>user-drei-avatar</b> = Avatar URL
 
-<span style="color: #1585c9;">user-drei-mail</span> = username@podcastname.tld
+<b>user-drei-mail</b> = username@podcastname.tld
 
-<span style="color: #1585c9;">user-drei-info</span> = Über den Podcaster (description)
+<b>user-drei-info</b> = Über den Podcaster (description)
 
-<span style="color: #1585c9;">user-drei-facebook</span> = (URL)
+<b>user-drei-facebook</b> = (URL)
 
-<span style="color: #1585c9;">user-drei-twitter</span> = (URL)
+<b>user-drei-twitter</b> = (URL)
 
-<span style="color: #1585c9;">user-drei-alpha</span> = (URL)
+<b>user-drei-alpha</b> = (URL)
 
-<span style="color: #1585c9;">user-drei-xing</span> = (URL)
+<b>user-drei-xing</b> = (URL)
 
-<span style="color: #1585c9;">user-drei-yt</span> = (URL)
+<b>user-drei-yt</b> = (URL)
 
-<span style="color: #1585c9;">user-drei-podunion</span> = (URL)
+<b>user-drei-podunion</b> = (URL)
+
+..more sociallinks are working!..
 
 <h3>Podcaster 4</h3>
 
-<span style="color: #1585c9;">user-vier</span> = Name des Podcasters
+<b>user-vier</b> = Name des Podcasters
 
-<span style="color: #1585c9;">user-vier-avatar</span> = Avatar URL
+<b>user-vier-avatar</b> = Avatar URL
 
-<span style="color: #1585c9;">user-vier-mail</span> = username@podcastname.tld
+<b>user-vier-mail</b> = username@podcastname.tld
 
-<span style="color: #1585c9;">user-vier-info</span> = Über den Podcaster (description)
+<b>user-vier-info</b> = Über den Podcaster (description)
 
-<span style="color: #1585c9;">user-vier-facebook</span> = (URL)
+<b>user-vier-facebook</b> = (URL)
 
-<span style="color: #1585c9;">user-vier-twitter</span> = (URL)
+<b>user-vier-twitter</b> = (URL)
 
-<span style="color: #1585c9;">user-vier-alpha</span> = (URL)
+<b>user-vier-alpha</b> = (URL)
 
-<span style="color: #1585c9;">user-vier-xing</span> = (URL)
+<b>user-vier-xing</b> = (URL)
 
-<span style="color: #1585c9;">user-vier-yt</span> = (URL)
+<b>user-vier-yt</b> = (URL)
 
-<span style="color: #1585c9;">user-vier-podunion</span> = (URL)
+<b>user-vier-podunion</b> = (URL)
+
+..more sociallinks are working!..
 
 <h3>Podcaster 5</h3>
 
-<span style="color: #1585c9;">user-fuenf</span> = Name des Podcasters
+<b>user-fuenf</b> = Name des Podcasters
 
-<span style="color: #1585c9;">user-fuenf-avatar</span> = Avatar URL
+<b>user-fuenf-avatar</b> = Avatar URL
 
-<span style="color: #1585c9;">user-fuenf-mail</span> = username@podcastname.tld
+<b>user-fuenf-mail</b> = username@podcastname.tld
 
-<span style="color: #1585c9;">user-fuenf-info</span> = Über den Podcaster (description)
+<b>user-fuenf-info</b> = Über den Podcaster (description)
 
-<span style="color: #1585c9;">user-fuenf-facebook</span> = (URL)
+<b>user-fuenf-facebook</b> = (URL)
 
-<span style="color: #1585c9;">user-fuenf-twitter</span> = (URL)
+<b>user-fuenf-twitter</b> = (URL)
 
-<span style="color: #1585c9;">user-fuenf-alpha</span> = (URL)
+<b>user-fuenf-alpha</b> = (URL)
 
-<span style="color: #1585c9;">user-fuenf-xing</span> = (URL)
+<b>user-fuenf-xing</b> = (URL)
 
-<span style="color: #1585c9;">user-fuenf-yt</span> = (URL)
+<b>user-fuenf-yt</b> = (URL)
 
-<span style="color: #1585c9;">user-fuenf-podunion</span> = (URL)
+<b>user-fuenf-podunion</b> = (URL)
+
+..more sociallinks are working!..
 
 <h3>Podcaster 6</h3>
 
-<span style="color: #1585c9;">user-sechs</span> = Name des Podcasters
+<b>user-sechs</b> = Name des Podcasters
 
-<span style="color: #1585c9;">user-sechs-avatar</span> = Avatar URL
+<b>user-sechs-avatar</b> = Avatar URL
 
-<span style="color: #1585c9;">user-sechs-mail</span> = username@podcastname.tld
+<b>user-sechs-mail</b> = username@podcastname.tld
 
-<span style="color: #1585c9;">user-sechs-info</span> = Über den Podcaster (description)
+<b>user-sechs-info</b> = Über den Podcaster (description)
 
-<span style="color: #1585c9;">user-sechs-facebook</span> = (URL)
+<b>user-sechs-facebook</b> = (URL)
 
-<span style="color: #1585c9;">user-sechs-twitter</span> = (URL)
+<b>user-sechs-twitter</b> = (URL)
 
-<span style="color: #1585c9;">user-sechs-alpha</span> = (URL)
+<b>user-sechs-alpha</b> = (URL)
 
-<span style="color: #1585c9;">user-sechs-xing</span> = (URL)
+<b>user-sechs-xing</b> = (URL)
 
-<span style="color: #1585c9;">user-sechs-yt</span> = (URL)
+<b>user-sechs-yt</b> = (URL)
 
-<span style="color: #1585c9;">user-sechs-podunion</span> = (URL)
+<b>user-sechs-podunion</b> = (URL)
+
+..more sociallinks are working!..
 
 <h3>Podcaster 7</h3>
 
-<span style="color: #1585c9;">user-sieben</span> = Name des Podcasters
+<b>user-sieben</b> = Name des Podcasters
 
-<span style="color: #1585c9;">user-sieben-avatar</span> = Avatar URL
+<b>user-sieben-avatar</b> = Avatar URL
 
-<span style="color: #1585c9;">user-sieben-mail</span> = username@podcastname.tld
+<b>user-sieben-mail</b> = username@podcastname.tld
 
-<span style="color: #1585c9;">user-sieben-info</span> = Über den Podcaster (description)
+<b>user-sieben-info</b> = Über den Podcaster (description)
 
-<span style="color: #1585c9;">user-sieben-facebook</span> = (URL)
+<b>user-sieben-facebook</b> = (URL)
 
-<span style="color: #1585c9;">user-sieben-twitter</span> = (URL)
+<b>user-sieben-twitter</b> = (URL)
 
-<span style="color: #1585c9;">user-sieben-alpha</span> = (URL)
+<b>user-sieben-alpha</b> = (URL)
 
-<span style="color: #1585c9;">user-sieben-xing</span> = (URL)
+<b>user-sieben-xing</b> = (URL)
 
-<span style="color: #1585c9;">user-sieben-yt</span> = (URL)
+<b>user-sieben-yt</b> = (URL)
 
-<span style="color: #1585c9;">user-sieben-podunion</span> = (URL)
+<b>user-sieben-podunion</b> = (URL)
+
+..more sociallinks are working!..
 
 <h3>Podcaster 8</h3>
 
-<span style="color: #1585c9;">user-acht</span> = Name des Podcasters
+<b>user-acht</b> = Name des Podcasters
 
-<span style="color: #1585c9;">user-acht-avatar</span> = Avatar URL
+<b>user-acht-avatar</b> = Avatar URL
 
-<span style="color: #1585c9;">user-acht-mail</span> = username@podcastname.tld
+<b>user-acht-mail</b> = username@podcastname.tld
 
-<span style="color: #1585c9;">user-acht-info</span> = Über den Podcaster (description)
+<b>user-acht-info</b> = Über den Podcaster (description)
 
-<span style="color: #1585c9;">user-acht-facebook</span> = (URL)
+<b>user-acht-facebook</b> = (URL)
 
-<span style="color: #1585c9;">user-acht-twitter</span> = (URL)
+<b>user-acht-twitter</b> = (URL)
 
-<span style="color: #1585c9;">user-acht-alpha</span> = (URL)
+<b>user-acht-alpha</b> = (URL)
 
-<span style="color: #1585c9;">user-acht-xing</span> = (URL)
+<b>user-acht-xing</b> = (URL)
 
-<span style="color: #0870d8;">user-acht-yt</span> = (URL)
+<b>user-acht-yt</b> = (URL)
 
-<span style="color: #0870d8;">user-acht-podunion</span> = (URL)
+<b>user-acht-podunion</b> = (URL)
+
+..more sociallinks are working!..
 
 <h3>Podcaster 9</h3>
 
-<span style="color: #0870d8;">user-neun</span> = Name des Podcasters
+<b>user-neun</b> = Name des Podcasters
 
-<span style="color: #0870d8;">user-neun-avatar</span> = Avatar URL
+<b>user-neun-avatar</b> = Avatar URL
 
-<span style="color: #0870d8;">user-neun-mail</span> = username@podcastname.tld
+<b>user-neun-mail</b> = username@podcastname.tld
 
-<span style="color: #0870d8;">user-neun-info</span> = Über den Podcaster (description)
+<b>user-neun-info</b> = Über den Podcaster (description)
 
-<span style="color: #0870d8;">user-neun-facebook</span> = (URL)
+<b>user-neun-facebook</b> = (URL)
 
-<span style="color: #0870d8;">user-neun-twitter</span> = (URL)
+<b>user-neun-twitter</b> = (URL)
 
-<span style="color: #0870d8;">user-neun-alpha</span> = (URL)
+<b>user-neun-alpha</b> = (URL)
 
-<span style="color: #0870d8;">user-neun-xing</span> = (URL)
+<b>user-neun-xing</b> = (URL)
 
-<span style="color: #0870d8;">user-neun-yt</span> = (URL)
+<b>user-neun-yt</b> = (URL)
 
-<span style="color: #0870d8;">user-neun-podunion</span> = (URL)
+<b>user-neun-podunion</b> = (URL)
+
+..more sociallinks are working!..
 
 <h3>Podcaster 10</h3>
 
-<span style="color: #0870d8;">user-zehn</span> = Name des Podcasters
+<b>user-zehn</b> = Name des Podcasters
 
-<span style="color: #0870d8;">user-zehn-avatar</span> = Avatar URL
+<b>user-zehn-avatar</b> = Avatar URL
 
-<span style="color: #0870d8;">user-zehn-mail</span> = username@podcastname.tld
+<b>user-zehn-mail</b> = username@podcastname.tld
 
-<span style="color: #0870d8;">user-zehn-info</span> = Über den Podcaster (description)
+<b>user-zehn-info</b> = Über den Podcaster (description)
 
-<span style="color: #0870d8;">user-zehn-facebook</span> = (URL)
+<b>user-zehn-facebook</b> = (URL)
 
-<span style="color: #0870d8;">user-zehn-twitter</span> = (URL)
+<b>user-zehn-twitter</b> = (URL)
 
-<span style="color: #0870d8;">user-zehn-alpha</span> = (URL)
+<b>user-zehn-alpha</b> = (URL)
 
-<span style="color: #0870d8;">user-zehn-xing</span> = (URL)
+<b>user-zehn-xing</b> = (URL)
 
-<span style="color: #0870d8;">user-zehn-yt</span> = (URL)
+<b>user-zehn-yt</b> = (URL)
 
-<span style="color: #0870d8;">user-zehn-podunion</span> = (URL)
+<b>user-zehn-podunion</b> = (URL)
 
-<h3>Gäste</h3>
+..more sociallinks are working!..
+
+<h3>Podcasting Guests</h3>
 
 guests = Gästelinks
 
-<h2>Design</h2>
+<h2>Pagedesign</h2>
 
-backgrounduri = Hintergrund Bild (URL)
+<b>backgrounduri</b> = Hintergrund Bild (URL)
 
-bgolori = Hintergrund Farbe (#XXXXXX)
+<b>bgolori</b> = Hintergrund Farbe (#XXXXXX)
 
-backgroundbanner = Hintergrund Banner (URL)
+<b>backgroundbanner</b> = Hintergrund Banner (URL)
 
-playerdesign = CSS des Web Player
+<b>playerdesign</b> = CSS des Web Player
 
-playerdesignm = Player Modal {"hue":"360","sat":"99","lum":"66","gra":"9"}
+<b>playerdesignm</b> = Player Modal {"hue":"360","sat":"99","lum":"66","gra":"9"}
