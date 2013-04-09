@@ -1,4 +1,4 @@
-<h2>Podbe-Jason-Api</h2>
+<h2>Podbe-Json-Api</h2>
  <img width="220px"src="http://podbe.wikibyte.org/wp-content/uploads/2013/02/podbe1.png"></td>
  
 <h4>Podbe JSON API for Podcatcher:</h4>
