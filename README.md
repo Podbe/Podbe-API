@@ -1,8 +1,9 @@
-Podbe-API
-=========
+<h2>Podbe-Jason-Api</h2>
+ <img width="220px"src="http://podbe.wikibyte.org/wp-content/uploads/2013/02/podbe1.png"></td>
+ 
+<h4>Podbe JSON API for Podcatcher:</h4>
 
-Podbe JSON API for Podcatcher
-<div style="float:right;"><img src="http://podbe.wikibyte.org/wp-content/uploads/2013/02/podbe1.png"></div>
+Finde more information to PJA in the <a href="https://github.com/Podbe/Podbe-API/blob/master/test-podbe-json.php">Test PHP</a>
 
 <h2>XML Podcastpage (meta_key: podbe-types)</h2>
 There are two types of variables, for example:
