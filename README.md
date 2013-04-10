@@ -139,7 +139,7 @@ This information is required to view the metadata standard storage in the WP dat
   &lt;/item>
 &lt;/channel>
 </pre>
-<h2>Formular informations for "Podbe Json-API" (meta_values)</h2>
+<h2>All currently meta_values as the "Podbe json API" in use</h2>
 
 <b>wp_post('title')</b> = Podcastname
 
