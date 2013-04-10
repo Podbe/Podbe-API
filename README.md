@@ -201,7 +201,7 @@ This information is required to view the metadata standard storage in the WP dat
 
 <b>user-eins</b>-= avatar Avatar URL
 
-<b>user-eins-mail</b> = username@podcastname.tld
+<b>user-eins-mail</b> = username&#64;podcastname.tld
 
 <b>user-eins-info</b> = Über den Podcaster (description)
 
@@ -225,7 +225,7 @@ This information is required to view the metadata standard storage in the WP dat
 
 <b>user-zwei-avatar</b> = Avatar URL
 
-<b>user-zwei-mail</b> = username@podcastname.tld
+<b>user-zwei-mail</b> = username&#64;podcastname.tld
 
 <b>user-zwei-info</b> = Über den Podcaster (description)
 
@@ -249,7 +249,7 @@ This information is required to view the metadata standard storage in the WP dat
 
 <b>user-drei-avatar</b> = Avatar URL
 
-<b>user-drei-mail</b> = username@podcastname.tld
+<b>user-drei-mail</b> = username&#64;podcastname.tld
 
 <b>user-drei-info</b> = Über den Podcaster (description)
 
@@ -273,7 +273,7 @@ This information is required to view the metadata standard storage in the WP dat
 
 <b>user-vier-avatar</b> = Avatar URL
 
-<b>user-vier-mail</b> = username@podcastname.tld
+<b>user-vier-mail</b> = username&#64;podcastname.tld
 
 <b>user-vier-info</b> = Über den Podcaster (description)
 
@@ -297,7 +297,7 @@ This information is required to view the metadata standard storage in the WP dat
 
 <b>user-fuenf-avatar</b> = Avatar URL
 
-<b>user-fuenf-mail</b> = username@podcastname.tld
+<b>user-fuenf-mail</b> = username&#64;podcastname.tld
 
 <b>user-fuenf-info</b> = Über den Podcaster (description)
 
@@ -321,7 +321,7 @@ This information is required to view the metadata standard storage in the WP dat
 
 <b>user-sechs-avatar</b> = Avatar URL
 
-<b>user-sechs-mail</b> = username@podcastname.tld
+<b>user-sechs-mail</b> = username&#64;podcastname.tld
 
 <b>user-sechs-info</b> = Über den Podcaster (description)
 
@@ -345,7 +345,7 @@ This information is required to view the metadata standard storage in the WP dat
 
 <b>user-sieben-avatar</b> = Avatar URL
 
-<b>user-sieben-mail</b> = username@podcastname.tld
+<b>user-sieben-mail</b> = username&#64;podcastname.tld
 
 <b>user-sieben-info</b> = Über den Podcaster (description)
 
@@ -369,7 +369,7 @@ This information is required to view the metadata standard storage in the WP dat
 
 <b>user-acht-avatar</b> = Avatar URL
 
-<b>user-acht-mail</b> = username@podcastname.tld
+<b>user-acht-mail</b> = username&#64;podcastname.tld
 
 <b>user-acht-info</b> = Über den Podcaster (description)
 
@@ -393,7 +393,7 @@ This information is required to view the metadata standard storage in the WP dat
 
 <b>user-neun-avatar</b> = Avatar URL
 
-<b>user-neun-mail</b> = username@podcastname.tld
+<b>user-neun-mail</b> = username&#64;podcastname.tld
 
 <b>user-neun-info</b> = Über den Podcaster (description)
 
@@ -417,7 +417,7 @@ This information is required to view the metadata standard storage in the WP dat
 
 <b>user-zehn-avatar</b> = Avatar URL
 
-<b>user-zehn-mail</b> = username@podcastname.tld
+<b>user-zehn-mail</b> = username&#64;podcastname.tld
 
 <b>user-zehn-info</b> = Über den Podcaster (description)
 
