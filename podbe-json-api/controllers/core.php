@@ -15,7 +15,6 @@ class JSON_API_Core_Controller {
   public function get_post() {
     global $json_api, $post;
     extract($json_api->query->get(array('id', 'slug', 'post_id', 'post_slug', 'meta_key', 'meta_value')));
-    #extract($json_api->query->get(array('id', 'slug', 'post_id', 'post_slug'))); //fix mc
     if ($id || $post_id) {
       if (!$id) {
         $id = $post_id;
@@ -32,7 +31,7 @@ class JSON_API_Core_Controller {
         'name' => $slug
       ), true);
     } else {
-      $json_api->error("Include 'id' or 'slug' var in your request.");
+      $json_api->error("Include 'id' or 'slug' var in your Podbe request.");
     }
     if (count($posts) == 1) {
       $post = $posts[0];
@@ -78,16 +77,6 @@ class JSON_API_Core_Controller {
     return $this->posts_result($posts);
   }
   
-  public function get_date_index() {
-    global $json_api;
-    $permalinks = $json_api->introspector->get_date_archive_permalinks();
-    $tree = $json_api->introspector->get_date_archive_tree($permalinks);
-    return array(
-      'permalinks' => $permalinks,
-      'tree' => $tree
-    );
-  }
-  
   public function get_category_index() {
     global $json_api;
     $categories = $json_api->introspector->get_categories();
@@ -117,7 +106,7 @@ class JSON_API_Core_Controller {
         $slug_var => $slug
       ));
     } else {
-      $json_api->error("No 'id' or 'slug' in Podbe request.");
+      $json_api->error("No 'pod_id' or 'slug' in Podbe request.");
     }
     return $posts;
   }
@@ -134,7 +123,6 @@ class JSON_API_Core_Controller {
   
   protected function posts_object_result($posts, $object) {
     global $wp_query;
-    // Convert something like "JSON_API_Category" into "category"
     $object_key = strtolower(substr(get_class($object), 9));
     return array(
       'count' => count($posts),
