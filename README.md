@@ -3,8 +3,8 @@
  
 <h4>Podbe JSON API for Podcatcher:</h4>
 
-Find more information to PJA in the <a href="https://github.com/Podbe/Podbe-API/blob/master/test-podbe-json.php">Testing PHP</a>
-Send questions and comments to <a href="http://podbe.wikibyte.org/podbe/kontakt/">Michael McCouman jr.</a> under <a href="http://podbe.wikibyte.org/podbe/kontakt/">support@wikibyte.org</a>.
+Find more information to PJA in the <a href="https://github.com/Podbe/Podbe-API/blob/master/test-podbe-json.php">Testing PHP</a><br>
+Send questions and comments to <a href="http://podbe.wikibyte.org/podbe/kontakt/">Michael McCouman jr.</a> under <a href="http://podbe.wikibyte.org/podbe/kontakt/">support&#64;wikibyte.org</a>.
 
 
 <h2>XML Podcastpage (meta_key: podbe-types)</h2>
