@@ -4,6 +4,8 @@
 <h4>Podbe JSON API for Podcatcher:</h4>
 
 Find more information to PJA in the <a href="https://github.com/Podbe/Podbe-API/blob/master/test-podbe-json.php">Testing PHP</a><br>
+See for a simple query also <a href="https://github.com/McCouman/podbe-json-easy-search">Podbes: Json-Easy-Search</a><br>
+
 Send questions and comments to <a href="http://podbe.wikibyte.org/podbe/kontakt/">Michael McCouman jr.</a> under <a href="http://podbe.wikibyte.org/podbe/kontakt/">support&#64;wikibyte.org</a>.
 
 
