@@ -453,10 +453,10 @@ guests = Gästelinks
 
 <b>playerdesignm</b> = Player Modal {"hue":"360","sat":"99","lum":"66","gra":"9"}
 
-<h3>Basic for Json Format and Lizens</h3>
+<h3>Basic for Json Format and Licens</h3>
 <pre>
 /**
- * Converts to and from JSON format.
+ * Converts to and from JSON format in Wordpress.
  *
  * JSON (JavaScript Object Notation) is a lightweight data-interchange
  * format. It is easy for humans to read and write. It is easy for machines
@@ -503,6 +503,7 @@ guests = Gästelinks
  * @author      Michal Migurski <mike-json@teczno.com>
  * @author      Matt Knapp <mdknapp[at]gmail[dot]com>
  * @author      Brett Stimmerman <brettstimmerman[at]gmail[dot]com>
+ * @author      Michael Kaufmann <podbe[at]wikibyte[dot]org>
  * @copyright   2005 Michal Migurski
  * @version     CVS: $Id: JSON.php 288200 2009-09-09 15:41:29Z alan_k $
  * @license     http://www.opensource.org/licenses/bsd-license.php
